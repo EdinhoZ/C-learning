@@ -202,10 +202,3 @@ void handpoint(){
     printf("%d\n",m);
     printf("%p\n",&m);
 }
-
-int main(){
-    int a;
-    scanf("%d\n",&a);
-    printf("%d\n",a);
-    return 0;
-}
